@@ -23,7 +23,7 @@ That's it, you can see the web application running at you localhost.<br>
 <div align="center">
   
 ## Model Architecture
-<img src="https://github.com/manavhirani/Facial-Emotion-Recognition/blob/master/model.png" />
+<img src="[https://github.com/manavhirani/Facial-Emotion-Recognition/blob/master/model.png](https://github.com/manavhirani/Facial-Emotion-Recognition/blob/b55ca3b8f8732b63ff01e9dbb5a5afd633aa80c2/model.png)https://github.com/manavhirani/Facial-Emotion-Recognition/blob/b55ca3b8f8732b63ff01e9dbb5a5afd633aa80c2/model.png" />
 </div>
 
 <div align="center">
