@@ -26,6 +26,4 @@ That's it, you can see the web application running at you localhost.<br>
 <img src="https://github.com/manavhirani/Facial-Emotion-Recognition/blob/main/model.png" />
 </div>
 
-<div align="center">
-  <b>Please do ⭐ this repo, if you liked my work.</b>
-</div>
+
